@@ -11,7 +11,3 @@
 ### 💡 About Me:
 - 🎓 I’m currently studying **Software Engineering (BSSE)**
 - 🌱 I’m learning **Java, JavaScript**
- 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/omaima-sarfaraz-76549a342/" target="_blank">
