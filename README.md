@@ -23,7 +23,6 @@
   <!-- 📊 GitHub Language Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaSarfaraz&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Top Languages" height="150" />
   <br/>
-  <!-- 📈 GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmaimaSarfaraz&theme=dracula&hide_border=false" alt="GitHub Contribution Graph" />
-
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmaimaSarfaraz&theme=github_dark" alt="GitHub Profile Details" />
 </div>
