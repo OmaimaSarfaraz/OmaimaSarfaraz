@@ -4,7 +4,7 @@
 </p>
 
 ### 🛠 Skills & Technologies:
-- 💡 Languages: **Java, C++**
+- 💡 Languages: **Java, C++, **
 - 🌐 Web Development: **HTML, CSS, JavaScript**
 -  🛠 Tools & Platforms: **Git, GitHub, VS Code**
 
