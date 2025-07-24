@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Omaima Sarfaraz</h1>  
 <p align="center">
-  💻 Software Engineering Student | 🚀 Passionate about Web & Mobile Development  
+  💻 Software Engineering Student | 🚀 Passionate about Web & Mobile Development
 </p>
 
 ### 🛠 Skills & Technologies:
