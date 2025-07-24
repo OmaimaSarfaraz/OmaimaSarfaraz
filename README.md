@@ -11,8 +11,6 @@
 ### 💡 About Me:
 - 🎓 I’m currently studying **Software Engineering (BSSE)**
 - 🌱 I’m learning **Java, JavaScript**
-
- 
  <h3 align="center">📊 My GitHub Stats</h3>
 
 ###
