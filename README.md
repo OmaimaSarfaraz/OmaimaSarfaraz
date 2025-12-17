@@ -6,7 +6,7 @@
 ### 🛠 Skills & Technologies:
 - 💡 Languages: **Java, C++, Python**
 - 🌐 Web Development: **HTML, CSS, JavaScript**
--  🛠 Tools & Platforms: **Git, GitHub, Visual S Code**
+-  🛠 Tools & Platforms: **Git, GitHub, Visual Studio Code**
 
 ### 💡 About Me:
 - 🎓 I’m currently studying **Software Engineering(BSSE)**
