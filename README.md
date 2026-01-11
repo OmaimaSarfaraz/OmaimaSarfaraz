@@ -1,26 +1,61 @@
-<h1 align="center">Hi there! 👋 I'm Omaima Sarfaraz</h1>  
+<h1 align="center">Hi there! 👋 I'm Omaima Sarfaraz</h1>
+
 <p align="center">
-  💻 Software Engineering Student | 🚀 Passionate about Web & Mobile Development
+  💻 Software Engineering Student (BSSE) <br/>
+  🚀 Passionate about Web & Mobile Development
 </p>
 
-### 🛠 Skills & Technologies:
-- 💡 Languages: **Java, C++, Python**
-- 🌐 Web Development: **HTML, CSS, JavaScript**
--  🛠 Tools & Platforms: **Git, GitHub, Visual Studio Code**
+<hr/>
 
-### 💡 About Me:
-- 🎓 I’m currently studying **Software Engineering(BSSE)**
-- 🌱 I’m learning **Java, JavaScript**
- <h3 align="center">📊 My GitHub Stats </h3>
+### 🛠 Skills & Technologies
 
-###
+- 💡 **Programming Languages:** Java, C++, Python  
+- 🌐 **Web Development:** HTML, CSS, JavaScript  
+- 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code  
+
+---
+
+### 💡 About Me
+
+- 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
+- 🌱 Actively learning ****
+- 💻 Interested in building **clean, functional & user-friendly applications**
+- 📈 Focused on improving **problem-solving & coding consistency**
+
+---
+
+<h3 align="center">📊 My GitHub Stats</h3>
+
 <div align="center">
-  <!-- 🔥 Streak Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmaimaSarfaraz&theme=dracula&hide_border=false" alt="Streak Graph" height="150" />
-  <br/>
-  <!-- 📊 GitHub Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaSarfaraz&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Top Languages" height="150" />
-  <br/>
-‎  <div align="center">
-‎  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark" />
-</div>                        
+
+<!-- 🔥 GitHub Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=OmaimaSarfaraz&theme=dracula&hide_border=false" 
+  alt="GitHub Streak" 
+  height="160"
+/>
+
+<br/><br/>
+
+<!-- 📊 Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaSarfaraz&layout=compact&theme=dracula&hide_border=false&langs_count=6" 
+  alt="Top Languages" 
+  height="160"
+/>
+
+<br/><br/>
+
+<!-- 📈 Profile Stats -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark" 
+/>
+
+</div>
+
+---
+
+### 🤝 Let's Connect & Grow Together
+⭐ Exploring new technologies  
+⭐ Building projects step by step  
+⭐ Learning, failing, improving — consistently 🚀
