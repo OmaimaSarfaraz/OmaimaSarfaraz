@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ### 🛠 Skills & Technologies
 
 - 💡 **Programming Languages:** Java, C++, Python  
@@ -14,7 +13,6 @@
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code  
 
 ---
-
 ### 💡 About Me
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
@@ -43,7 +41,6 @@
 </div>
 
 ---
-
 ### 🤝 Let's Connect & Grow Together
 
 ⭐ Exploring new technologies  
