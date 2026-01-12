@@ -5,13 +5,14 @@
   🚀 Passionate about Web & Mobile Development
 </p>
 
-<hr/>
+---
 
 ### 🛠 Skills & Technologies
 
 - 💡 **Programming Languages:** Java, C++, Python  
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code  
+
 ---
 
 ### 💡 About Me
@@ -20,28 +21,31 @@
 - 🌱 Actively learning **ReactJS**
 - 💻 Interested in building **clean, functional & user-friendly applications**
 - 📈 Focused on improving **problem-solving & coding consistency**
+
 ---
 
 <h3 align="center">📊 My GitHub Stats</h3>
+
 <div align="center">
 
-<!-- 🔥 GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmaimaSarfaraz&theme=dracula&hide_border=false&v=1" />
+<img src="https://streak-stats.demolab.com?user=OmaimaSarfaraz&theme=dracula&hide_border=false&v=1" height="160"/>
 
 <br/><br/>
 
 <!-- 📊 Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaSarfaraz&layout=compact&theme=dracula&hide_border=false&langs_count=6&v=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaSarfaraz&layout=compact&theme=dracula&hide_border=false&langs_count=6&v=1" height="160"/>
 
 <br/><br/>
 
 <!-- 📈 Profile Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark&v=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark&v=1"/>
 
 </div>
+
 ---
 
 ### 🤝 Let's Connect & Grow Together
+
 ⭐ Exploring new technologies  
 ⭐ Building projects step by step  
 ⭐ Learning, failing, improving — consistently 🚀
