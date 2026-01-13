@@ -39,6 +39,7 @@
 
 </div>
 ---
+
 ### 🤝 Let's Connect & Grow Together
 
 ⭐ Exploring new technologies  
