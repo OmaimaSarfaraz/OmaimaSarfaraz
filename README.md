@@ -21,7 +21,6 @@
 - 📈 Focused on improving **problem-solving & coding consistency**
 
 ---
-
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
@@ -39,7 +38,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark&v=1"/>
 
 </div>
-
 ---
 ### 🤝 Let's Connect & Grow Together
 
