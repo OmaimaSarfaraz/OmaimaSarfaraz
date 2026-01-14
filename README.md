@@ -4,6 +4,7 @@
   💻 Software Engineering Student (BSSE) <br/>
   🚀 Passionate about Web & Mobile Development
 </p>
+
 ---
 ### 🛠 Skills & Technologies
 
@@ -11,6 +12,7 @@
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code  
 ---
+
 ### 💡 About Me
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
