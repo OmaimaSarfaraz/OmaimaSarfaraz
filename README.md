@@ -12,7 +12,6 @@
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, Eclipse 
 ---
-
 ### 💡 About Me
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
@@ -37,7 +36,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark&v=1"/>
 </div>
 ---
-
 ### 🤝 Let's Connect & Grow Together
 
 ⭐ Exploring new technologies  
