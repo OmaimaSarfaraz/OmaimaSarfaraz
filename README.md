@@ -10,8 +10,7 @@
 
 - 💡 **Programming Languages:** Java, C++, Python  
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
-- 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, Eclipse
-
+- 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, Eclipse 
 ---
 
 ### 💡 About Me
