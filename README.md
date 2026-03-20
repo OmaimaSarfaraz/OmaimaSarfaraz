@@ -22,7 +22,7 @@
 - 📈 Focused on improving **problem-solving & coding consistency**
 ---
 
-<h3 align="center">📊 My GitHub STATS</h3>
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
 
