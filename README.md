@@ -18,7 +18,7 @@
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
 - 🌱 Actively learning **Assembly Language, Database, DAA, SDA**
-- 💻 Interested in building **clean, functional & user-friendly applications**
+- 💻 Interested in building **Clean, Functional & user-friendly applications**
 - 📈 Focused on improving **problem-solving & coding consistency**
 ---
 <h3 align="center">📊 My GitHub Stats</h3>
