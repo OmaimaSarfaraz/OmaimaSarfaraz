@@ -43,4 +43,4 @@
 
 ⭐ Exploring new technologies  
 ⭐ Building projects step by step  
-⭐ Learning, failing, improving — consistently 🚀                                 
+⭐ Learning, failing, improving — consistently 🚀    
