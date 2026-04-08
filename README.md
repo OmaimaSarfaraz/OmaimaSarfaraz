@@ -8,7 +8,7 @@
 
 ### 🛠 Skills & Technologies
 
-- 💡 **Programming Languages:** Java, C++, Python  
+- 💡 **Programming Languages:** Java, C, C++, Python  
 - 🌐 **Web Development:** HTML, CSS, JavaScript, React  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, VS 2019, Eclipse
  
