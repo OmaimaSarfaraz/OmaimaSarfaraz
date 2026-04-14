@@ -14,7 +14,7 @@
  
 ---
 
-### 💡 About Me
+### 💡 What About Me
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
 - 🌱 Actively learning **Assembly Language, Database, DAA, SDA**
