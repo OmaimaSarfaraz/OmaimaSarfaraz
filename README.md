@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Omaima Sarfaraz</h1>
+<h1 align="center">Hi there! 👋 I am Omaima Sarfaraz</h1>
 
 <p align="center">
   💻 Software Engineering Student (BSSE) <br/>
