@@ -40,7 +40,7 @@
 </div>
 ---
 
-### 🤝 Let's Connect And Grow Together
+### 🤝 Let's Connect And Grow together
 
 ⭐ Exploring new technologies  
 ⭐ Building projects step by step  
