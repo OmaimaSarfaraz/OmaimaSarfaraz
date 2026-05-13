@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Software Engineering Student (BSSE) <br/>
-  🚀 Passionate about Web & Mobile Development
+  🚀 Passionate about Web & Mobile Developme
 </p>
 ---
 
