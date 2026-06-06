@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! 👋 I'm Omaima Sarfaraz</h1>
 
 <p align="center">
-  💻 Software Engineering Student (BSSE) <br/>
+  💻 Software Engineering Student <br/>
   🚀 Passionate about Web & Mobile Development
 </p>
 ---
