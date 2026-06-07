@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! 👋 I'm Omaima Sarfaraz</h1>
 
 <p align="center">
-  💻 Software Engineering Student <br/>
+  💻 Software Engineering Student (BSSE)<br/>
   🚀 Passionate about Web & Mobile Development
 </p>
 ---
@@ -44,4 +44,3 @@
 ⭐ Exploring new technologies  
 ⭐ Building projects step by step  
 ⭐ Learning, failing, improving consistently🚀
-
