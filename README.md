@@ -6,6 +6,7 @@
 </p>
 
 ---
+
 ### 🛠 Skills & Technologies
 
 - 💡 **Programming Languages:** Java, C, C++, Python  
