@@ -20,7 +20,7 @@
 ### 💡 About Me
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
-- 🌱 Actively learning **SQL, DAA, SDA**
+- 🌱 Actively learning **SQL, DAA, SDA, AI**
 - 💻 Interested in building **Clean, Functional & user-friendly applications**
 - 📈 Focused on improving **problem-solving & coding consistency**
 
