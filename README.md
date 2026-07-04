@@ -13,6 +13,7 @@
 - 🌐 **Web Development:** HTML, CSS, JavaScript, ReactJS, TypeScript  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, VS 2019, Eclipse
 ---
+
 ### 💡 About Me
 
 - 🎓 Currently pursuing **Bachelor’s in Software Engineering (BSSE)**
