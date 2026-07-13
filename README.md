@@ -43,5 +43,5 @@
 ### 🤝 Let's Connect And Grow Together
 
 ⭐ Exploring new technologies  
-⭐ Building projects step by step  
+⭐ Building projects step by steps 
 ⭐ Learning, failing, improving consistently🚀
