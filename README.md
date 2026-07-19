@@ -4,8 +4,8 @@
   💻 Software Engineering Student (BSSE)<br/>
   🚀 Passionate about Web & Mobile Development
 </p>
-
 ---
+
 ### 🛠 Skills & Technologies
 
 - 💡 **Programming Languages:** Java, C, C++, Python  
@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-<!-- 📈 Profile Status -->
+<!-- 📈 Profile Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark&v=1"/>
 </div>
 ---
