@@ -4,7 +4,6 @@
   💻 Software Engineering Student (BSSE)<br/>
   🚀 Passionate about Web & Mobile Development
 </p>
-
 ---
 
 ### 🛠 Skills & Technologies
@@ -12,7 +11,6 @@
 - 💡 **Programming Languages:** Java, C, C++, Python  
 - 🌐 **Web Development:** HTML, CSS, JavaScript, ReactJS, TypeScript  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, VS 2019, Eclipse
-
 ---
 
 ### 💡 About Me
