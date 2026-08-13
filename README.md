@@ -20,7 +20,6 @@
 - 🌱 Actively learning **SDA, AI**
 - 💻 Interested in building **Clean, Functional & user-friendly applications**
 - 📈 Focused on improving **problem-solving & coding consistency**
-
 ---
 
 <h3 align="center">📊 My GitHub Stats</h3>
