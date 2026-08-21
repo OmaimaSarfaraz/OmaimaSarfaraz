@@ -32,7 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmaimaSarfaraz&layout=compact&theme=dracula&hide_border=false&langs_count=6&v=1" height="160"/>
 
 <br/><br/>
-
 <!-- 📈 Profile Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmaimaSarfaraz&theme=github_dark&v=1"/>
 </div>
