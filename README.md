@@ -23,7 +23,6 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=OmaimaSarfaraz&theme=dracula&hide_border=false&v=1" height="160"/>
 
 <br/><br/>
