@@ -10,7 +10,6 @@
 - 💡 **Programming Languages:** Java, C, C++, Python  
 - 🌐 **Web Development:** HTML, CSS, JavaScript, ReactJS, TypeScript  
 - 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code, VS 2019, Eclipse
-
   
 ---
 ### 💡 About Me
@@ -23,6 +22,7 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <div align="center">
+  
 <img src="https://streak-stats.demolab.com?user=OmaimaSarfaraz&theme=dracula&hide_border=false&v=1" height="160"/>
 
 <br/><br/>
