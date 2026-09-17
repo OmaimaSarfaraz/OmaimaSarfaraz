@@ -14,8 +14,8 @@
 
 ### 💡 About Me
 
-- 🎓 Currently pursuing **Bachelor's in Software Engineering (BSE)**
-- 🌱 Actively learning **CN, OS, AI, ML**
+- 🎓 Currently pursuing **Bachelor's in Software Engineering (BSSE)**
+- 🌱 Actively learning **CN, OS, AI**
 - 💻 Interested in building **Clean, Functional & user-friendly applications**
 - 📈 Focused on improving **problem-solving & coding consistency**
   
