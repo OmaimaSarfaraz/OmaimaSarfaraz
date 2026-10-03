@@ -39,6 +39,6 @@
 
 ### 🤝 Let's Connect And Grow Together
 
-⭐ Exploring newss technologies  
+⭐ Exploring new technologies  
 ⭐ Building projects step by step
 ⭐ Learning, failling, improving consistently🚀
