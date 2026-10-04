@@ -10,7 +10,7 @@
 
 - 💡 **Programming Languages:** Java, C, C++, Python  
 - 🌐 **Web Development:** HTML, JavaScript, ReactJS, TypeScript  
-- 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code VSC, VS 2019, Eclipse, n8n
+- 🛠 **Tools & Platforms:** Git, GitHub, Visual Studio Code VSC, VS 2019, Eclipse, n8n, Supabase
 
 ### 💡 About Me
 
